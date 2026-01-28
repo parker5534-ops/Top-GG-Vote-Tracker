@@ -70,6 +70,8 @@ No data is sold or shared.
 
 ---
 
+This repository is provided for transparency; the hosted bot runs independently.
+
 ### Installation
 
 ```bash
